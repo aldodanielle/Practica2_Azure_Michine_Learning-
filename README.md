@@ -8,7 +8,8 @@ Nos dirigimos primero ml.azure.com, iniciamos sesión con nuestra cuenta y poste
 ---------------------------------------------------
 ## Paso 2  
 
-Una dentro del portal creamos una nueva área de trabajo este paso nos dará la opción de créalo dentro de este mismo porta sin embargo nos dirigimos mejor a al portal de portal.azure.com para crearlo.
+Una dentro del portal creamos una nueva área de trabajo este paso nos dará la opción de créalo dentro de este mismo porta sin embargo nos dirigimos mejor a al portal de portal.azure.com para crearlo.  
+
 ![nueva área de trabajo en ml.azure.com](https://github.com/aldodanielle/Practica2_Azure_Michine_Learning-/blob/main/Imagenes/2.png)
 ---------------------------------------------------
 ## Paso 3  
