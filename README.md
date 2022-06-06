@@ -38,6 +38,7 @@ Una ves creado el nuevo proceso y que este ya se encuentre en ejecución nos dir
 ---------------------------------------------------
 ## Paso 7  
 
-Una vez creado archi ejecutamos nuestro primer programa en notebook.
+Una vez creado archi ejecutamos nuestro primer programa en notebook.  
+
 ![hola mundo](https://github.com/aldodanielle/Practica2_Azure_Michine_Learning-/blob/main/Imagenes/7.png)
 ---------------------------------------------------
